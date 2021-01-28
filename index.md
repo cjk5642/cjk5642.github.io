@@ -9,7 +9,7 @@ I am a recent graduate of [Penn State University](psu.edu) with a Bachelor of Sc
 I originally started out as an engineering student studying Civil Engineering. I eventually switched my major to every Engineering Major I could find. They all seemed ...*slow*. I loved learning and felt I would benefit from a fast-paced environment so my Father suggested I should try Data Science. I **loved** how in data science, you can quantify and statistically analyze almost anything you want, and it's done with Math, my other passion. After all of this deciding, I decided to shoot for the stars and obtain degrees for each of my loves. It was a lot of work but it was well worth it!
 
 During my time here, I learned many technical skills like how to code, write a proof, and think logically.
-> This is true. I first learned how to code as a Sophomore in my Undergrad and was self-taught in the beginning.
+> This is true. I first learned how to code as a Sophomore in my Undergrad and was self-taught in Python in the beginning.
 
 I learned many programming languages (Python, R, Java, and SQL to name a few) which have helped me land jobs and other research. 
 
