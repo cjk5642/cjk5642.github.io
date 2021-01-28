@@ -1,4 +1,4 @@
-theme: "jekyll-theme-minimal"
+#theme: "jekyll-theme-minimal"
 title: "Welcome to Collin's Homepage!"
 
 author: Collin J. Kovacs
@@ -7,3 +7,44 @@ avatar: "/images/profile.jpg"
 
 round-avatar: false
 email: collin.graduate@gmail.com
+
+social-network-links:
+  # TODO bitsbybrad email
+  email: "collin.graduate@gmail.com"
+  #facebook:
+  github: cjk5642
+  # twitter: daattali
+  # rss: true
+#  reddit: yourname
+  linkedin: collin-kovacs
+#  xing: yourname
+#  stackoverflow: "3943160/daattali"
+#  snapchat: deanat78
+#  instagram: deanat78
+#  youtube: user/deanat78
+#  spotify: yourname
+#  telephone: +14159998888
+#  steam: deanat78
+#  twitch: yourname
+#  yelp: yourname
+#  telegram: yourname
+#  calendly: yourname
+#  mastodon: instance.url/@username
+
+# --- General options --- #
+
+# Select which social network share links to show in posts
+share-links-active:
+  twitter: false
+  facebook: false
+  email: true
+  github: true
+  linkedin: true
+  vk: false
+
+# How to display the link to your website in the footer
+# Remove this if you don't want a link in the footer
+url-pretty: "cjk5642.github.io""
+
+# Create a "tags" index page and make tags on each post clickable
+link-tags: true
