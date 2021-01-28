@@ -1,3 +1,5 @@
+# Welcome to my Website!
+
 # Academics
 This section breaks down each part of my academic career.
 
