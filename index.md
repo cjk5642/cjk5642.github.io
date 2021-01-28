@@ -1,4 +1,5 @@
 # Welcome to my Website!
+![Image](profile.jpg)
 
 # Academics
 This section breaks down each part of my academic career.
