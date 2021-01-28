@@ -19,7 +19,7 @@ Hopefully in the future, I will be able to obtain a PhD to fully round out my ac
 
 ### Research Interests
 1. *Quantum* - Since high school, I have been interested in the world of Quantum. First, it was true mechanics in understanding how this bizarre system works. Secondly, over time with more hardened computer skills, I stumbled upon Quantum Computing. With this and my love for Data Science, I found myself at the end of the path: Quantum Machine Learning. 
->I am amazed at how we, as humans, are able to extract proabablistic notions of our universe, extract them as entirely new bit storage and operations (cubit), and successfully employ Machine Learning algorithms to predict these bit operations.
+>I am amazed at how we, as humans, are able to extract proabablistic notions of our universe, extract them as entirely new bit storage and operations (qubit), and successfully employ Machine Learning algorithms to predict these bit operations.
 
 # Experience
 
