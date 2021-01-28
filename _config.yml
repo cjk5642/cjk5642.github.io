@@ -1,4 +1,4 @@
-remote_theme: thelehhman/texture
+theme: "jekyll-theme-minimal"
 title: "Welcome to Collin's Homepage!"
 
 author: Collin J. Kovacs
