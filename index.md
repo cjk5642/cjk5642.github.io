@@ -1,5 +1,5 @@
 # Welcome to my Website!
-![Image](profile.jpg)
+![Collin](images/profile.jpg)
 
 # Academics
 This section breaks down each part of my academic career.
