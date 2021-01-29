@@ -1,6 +1,7 @@
 theme: "jekyll-theme-minimal"
 title: "Welcome to Collin's Homepage!"
 
-![Collin](images/profile.jpg)
+post_asset_folder: True
+![Collin](assets/images/profile.jpg)
 
 email: "collin.graduate@gmail.com"
