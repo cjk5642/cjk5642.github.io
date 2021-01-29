@@ -1,7 +1,7 @@
 # Welcome to my Website!
 This page will serve a use for housing my previous projects and schoolwork. 
 
-![Collin](images/profile.jpg)
+![Collin](assets/images/profile.jpg)
 
 # Academics
 This section breaks down each part of my academic career.
